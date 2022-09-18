@@ -20,7 +20,7 @@
 
 ## 作業連結區
 >[week2實作錄影-建立Repo.](https://youtu.be/lHtq9UfiEaY)  
-[week2這個忘記錄影了qq-建立第一個個人靜態網頁](https://youtu.be/lHtq9UfiEaY)  
+[week2這個忘記錄影了qq-建立第一個個人靜態網頁](http://ett9292.github.io/Web/mypage/)  
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
 
