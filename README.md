@@ -15,7 +15,7 @@
 >- 作業連結區 
 >- 專題連結區
 
-[課程筆記區]: https://github.com/ett9292/Web#課程筆記區 
+[課程筆記區]: https://github.com/ett9292/Web#課程筆記區 "課程筆記區"
 
 # 課程筆記區
 >
