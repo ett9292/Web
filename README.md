@@ -25,10 +25,6 @@
 >[作業一](https://www.youtube.com/watch?v=G_18HyH57Yo) 
 >>建立GitHub Repo.編輯README.建立Web1靜態網頁
 
->作業二
-作業三
-作業四
-作業五
 
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
