@@ -23,7 +23,7 @@
 
 ## 作業連結區
 >[作業一](https://www.youtube.com/watch?v=G_18HyH57Yo) 
->>建立GitHub Repo.編輯README.建立Web1靜態網頁
+>>建立GitHub Repo.編輯README.建立Web1靜態網頁  
 >[作業二](https://www.youtube.com/watch?v=G_18HyH57Yo)
 
 
