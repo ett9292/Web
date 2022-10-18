@@ -25,7 +25,7 @@
 >[作業一](https://www.youtube.com/watch?v=G_18HyH57Yo) 
 >>建立GitHub Repo.編輯README.建立Web1靜態網頁  
 >>
->[作業二](https://www.youtube.com/watch?v=G_18HyH57Yo)
+>[作業二](https://www.youtube.com/watch?v=HP5fd6m9mOs)
 
 
 
