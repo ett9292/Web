@@ -26,8 +26,10 @@
 >>建立GitHub Repo.編輯README.建立Web1靜態網頁  
 >>
 >[作業二](https://youtu.be/IrdHbooEPeY)
->>mysql, react, nodejs前後端連結、展示CRUD
-
+>>mysql, react, nodejs前後端連結、展示CRUD  
+>>
+>[作業三-1](https://youtu.be/WZliVl1iz0w)
+>>Lab1 - Amazon S3  
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
 
