@@ -33,6 +33,9 @@
 >>
 >[作業四-1](https://youtu.be/He2eSDCtfvc)
 >>Lab6 - AWS Identity and Access Management (IAM)  
+>>
+>[作業四-2](https://youtu.be/L923hes66WQ)
+>>Lab5 - Amazon Virtual Private Cloud (Amazon VPC)   
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
 
