@@ -30,6 +30,9 @@
 >>
 >[作業三-1](https://youtu.be/WZliVl1iz0w)
 >>Lab1 - Amazon S3  
+>>
+>[作業四-1](https://youtu.be/He2eSDCtfvc)
+>>Lab6 - AWS Identity and Access Management (IAM)  
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
 
