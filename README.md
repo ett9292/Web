@@ -36,6 +36,9 @@
 >>
 >[作業四-2](https://youtu.be/L923hes66WQ)
 >>Lab5 - Amazon Virtual Private Cloud (Amazon VPC)   
+>>
+>[作業五-1](https://youtu.be/A8O6-FR8oaU)
+>>lab 3-Amazon DynamoDB
 
 [Back to Contents](https://github.com/ett9292/Web#Contents)
 
